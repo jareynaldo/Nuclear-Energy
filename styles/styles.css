@@ -1,0 +1,10 @@
+
+.jumbotron {
+  background-image: url('../../../images/nuclear-header.jpg');
+  
+  background-size: cover;
+}
+
+.rounded-img{
+  border-radius: 10%;
+}

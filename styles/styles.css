@@ -16,9 +16,16 @@
   .adding-padding-lg-only {
     padding-bottom: 1.92rem;
   }
+  .height-is-set{
+    margin-left: 40%;
+  }
 }
 
+@media only screen and (min-width: 768px) {
+  .height-is-set{
+    margin-left: 20%;
+  }
+}
 .height-is-set{
-  height: 1rem;
-  margin-left: 30%;
+  width: auto;
 }
